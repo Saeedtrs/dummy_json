@@ -1,11 +1,26 @@
-[{
-  "farsiName":null,
-  "name":null,
-  " order":0,
-"placeHolder":null,
-"title":null,
-"type":0,
-"value":null,
-"option":[{"name":"testOptionName1","value":"testOptionValue1"}],
-"validation":[{"count":null,"maxLength":null,"minLength":null,"regex":null,"size":null}]
-}]
+[
+  {
+    "farsiName": "نام فارسی ۱",
+    "name": "name",
+    " order": 1,
+    "placeHolder": "نام را وارد کنید",
+    "title": "titleText",
+    "type": 1,
+    "value": "1",
+    "option": [
+      {
+        "name": "testOptionName1",
+        "value": "testOptionValue1"
+      }
+    ],
+    "validation": [
+      {
+        "count": null,
+        "maxLength": 5,
+        "minLength": 20,
+        "regex": "[a-z]",
+        "size": 5
+      }
+    ]
+  }
+]
