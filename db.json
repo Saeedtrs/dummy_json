@@ -7,13 +7,13 @@
     "title": "titleText",
     "type": 1,
     "value": "1",
-    "option": [
+    "Option": [
       {
         "name": "testOptionName1",
         "value": "testOptionValue1"
       }
     ],
-    "validation": [
+    "Validation": [
       {
         "count": null,
         "maxLength": 5,
